@@ -1,0 +1,47 @@
+.ma{
+
+    display: flex;
+}
+
+#on{
+    margin-top: 20px;
+    width: max-content;
+    height: 20px;
+    background-color: blue;
+    color: white;
+    padding: 20px;
+
+}
+#tw{
+    margin-top: 20px;
+
+    width: max-content;
+    height: 20px;
+    background-color: red;
+    color: white;
+    margin-left: 20px;
+    padding: 20px;
+
+}
+#cpy {
+    margin-top: 20px;
+
+    width: max-content;
+    height: 40px;
+    background-color: gray;
+    color: white;
+    margin-left: 20px;
+    padding: 10px;
+
+}
+#cpy1{
+    margin-top: 20px;
+
+    width: max-content;
+    height: 40px;
+    background-color: gray;
+    color: white;
+    margin-left: 20px;
+    padding: 10px;
+
+}
