@@ -21,11 +21,11 @@ let on3 = document.querySelector("#btn")
 on3.addEventListener("click", function (){
     for (let i=1; i <16; i++){
         let val = random()
-        srt1 += characters[val]
+        srt1 = characters[val]
     }
     for (let i=1; i <16; i++){
         let val = random()
-        srt2 += characters[val]
+        srt2 = characters[val]
     }
 
     on1.textContent = srt1
